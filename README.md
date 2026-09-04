@@ -1,36 +1,22 @@
-# Hi there, Am TianHengZhuang
+# Hi there, I'm TianHengZhuang 👋
 
 > Simulation systems engineer | Satellite & Space Tech | AI Agents
 
+**Currently:** contributing to [langgraph4j](https://github.com/langgraph4j/langgraph4j) (Java AI agent framework) · building AI agent systems for Chinese web novels · GPS / orbital mechanics / TLE tracking · VR/XR simulation for heavy machinery & drone shows
+
 ---
 
-## What I'm Working On
+## Open Source
 
-Currently active in open source, focusing on:
+- [langgraph4j](https://github.com/langgraph4j/langgraph4j) — Java AI agent framework, active contributor (PRs & issues)
+- [Generalized_ADCS](https://github.com/nscheuer/Generalized_ADCS) — satellite attitude control, contributor
+- [Chinese-WebNovel-Master](https://github.com/TianHengZhuang/Chinese-WebNovel-Master) — multi-agent AI writing system for web novels ⭐
 
-- **AI Agents & Frameworks** — Contributing to [langgraph4j](https://github.com/langgraph4j/langgraph4j) (Java AI agent framework)
-- **Satellite & Space** — GPS data systems, orbital mechanics, TLE tracking
-- **Simulation & Training** — VR/XR simulators for heavy machinery, drone shows
-- **Python / Java / AI** — LLM integration, agentic workflows, structured outputs
+## GitHub
 
-## Featured Projects
+![contribution graph](https://ghchart.rshah.org/TianHengZhuang)
 
-| Project | Description |
-|---------|-------------|
-| [Chinese-WebNovel-Master](https://github.com/TianHengZhuang/Chinese-WebNovel-Master) | Multi-agent AI writing system for Chinese web novels |
-| [TLEscope](https://github.com/aweeri/TLEscope) | TLE satellite tracking tools |
-| [Look4Sat](https://github.com/rt-bishop/Look4Sat) | Satellite pass prediction |
-| [Generalized_ADCS](https://github.com/nscheuer/Generalized_ADCS) | Satellite attitude control (contributor) |
-
-## GitHub Stats
-
-![TianHengZhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianHengZhuang&theme=default&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianHengZhuang&layout=compact&langs_count=6)
-
-## Contributions
-
-![Contribution graph](https://ghchart.rshah.org/TianHengZhuang)
+![stats](https://github-readme-stats.vercel.app/api?username=TianHengZhuang&theme=default&show_icons=true&count_private=true)
 
 ---
 
