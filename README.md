@@ -1,4 +1,4 @@
-# Hey, I'm TianHengZhuang 👋
+# Hey, Am TianHengZhuang 👋
 
 I'm a Product Manager working in AI, with 10+ years in software and a track record of leading product teams at major companies.
 
