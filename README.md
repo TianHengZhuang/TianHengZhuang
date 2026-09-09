@@ -1,18 +1,17 @@
-# Hey,There 👋
+# TianHengZhuang
 
-I'm a Product Manager working in AI, with 10+ years in software and a track record of leading product teams at major companies.
+I build practical tools for structured work: flight-mission planning, long-form fiction workflows, and business presentations.
 
-**Right now I'm into:**
-- 🤖 AI products & agents — actively contributing to [langgraph4j](https://github.com/langgraph4j/langgraph4j), a Java agent framework
-- ✍️ building [Chinese-WebNovel-Master](https://github.com/TianHengZhuang/Chinese-WebNovel-Master), a multi-agent system that writes web novels
-- 🛰️ geeking out on satellites & simulation — GPS, orbital mechanics, TLE tracking, VR/XR training sims
+## Featured work
 
-I also help out with satellite attitude control over at [Generalized_ADCS](https://github.com/nscheuer/Generalized_ADCS).
+- [mavplan](https://github.com/TianHengZhuang/mavplan) — MAVLink mission planning, safety checks, flight-log analysis, and training workflows for PX4, ArduPilot, and compatible systems.
+- [Chinese WebNovel Master](https://github.com/TianHengZhuang/Chinese-WebNovel-Master) — a structured workflow and knowledge base for commercially oriented Chinese web fiction.
+- [One-Click PPT](https://github.com/TianHengZhuang/One-click-%41%49-PPT-creation) — a reusable skill for turning a topic into a complete business-presentation script.
 
-When I'm not shipping products, I'm probably chasing satellite passes or making agents argue about plot twists.
+## Current focus
 
----
+- Mission planning, unmanned systems, and simulation
+- Workflow tooling and developer experience
+- Chinese web-fiction production and presentation design
 
-![contributions](https://ghchart.rshah.org/TianHengZhuang)
-
-> _"The best way to predict the future is to contribute to it."_
+I also contribute to satellite attitude-control work in [Generalized_ADCS](https://github.com/nscheuer/Generalized_ADCS).
